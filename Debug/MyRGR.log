@@ -1,0 +1,12 @@
+﻿  List.cpp
+  MyRGR.cpp
+  Создание кода...
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall List<int>::List<int>(void)" (??0?$List@H@@QAE@XZ) в функции "public: class List<int> __thiscall List<int>::QList(class List<int>,class List<int>)" (?QList@?$List@H@@QAE?AV1@V1@0@Z).
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall List<int>::~List<int>(void)" (??1?$List@H@@QAE@XZ) в функции "public: class List<int> __thiscall List<int>::QList(class List<int>,class List<int>)" (?QList@?$List@H@@QAE?AV1@V1@0@Z).
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::PushBack(int)" (?PushBack@?$List@H@@QAEXH@Z) в функции _main.
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int & __thiscall List<int>::operator[](int)" (??A?$List@H@@QAEAAHH@Z) в функции "public: class List<int> __thiscall List<int>::QList(class List<int>,class List<int>)" (?QList@?$List@H@@QAE?AV1@V1@0@Z).
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::PopFront(void)" (?PopFront@?$List@H@@QAEXXZ) в функции _main.
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::PushFront(int)" (?PushFront@?$List@H@@QAEXH@Z) в функции "public: class List<int> __thiscall List<int>::QList(class List<int>,class List<int>)" (?QList@?$List@H@@QAE?AV1@V1@0@Z).
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall List<int>::View(class List<int>)" (?View@?$List@H@@QAEHV1@@Z) в функции _main.
+MyRGR.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall List<int>::AddID(int,int)" (?AddID@?$List@H@@QAEXHH@Z) в функции _main.
+C:\Users\User\source\repos\MyRGR\Debug\MyRGR.exe : fatal error LNK1120: неразрешенных внешних элементов: 8
